@@ -1,4 +1,3 @@
-import React from 'react';
 import WhatsApp from '../Components/WhatsApp';
 import Navigation from '../Components/Navigation';
 import Hero from '../Components/Hero';

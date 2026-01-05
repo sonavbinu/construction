@@ -1,4 +1,3 @@
-import React from 'react';
 import { SERVICES } from '../constants';
 
 const Services = () => {

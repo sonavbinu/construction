@@ -1,4 +1,3 @@
-import React from 'react';
 import { CONTACT_INFO, SERVICES } from '../constants';
 
 const ContactForm = () => {

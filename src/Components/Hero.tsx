@@ -1,5 +1,4 @@
 import { Award, ChevronRight } from 'lucide-react';
-import React from 'react';
 
 const Hero = () => {
   return (

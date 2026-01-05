@@ -1,4 +1,3 @@
-import React from 'react';
 import { CONTACT_INFO } from '../constants';
 import { MessageCircle } from 'lucide-react';
 
